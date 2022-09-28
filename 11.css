@@ -1,0 +1,15 @@
+.jumbotron{
+    background-image: url("img/AKHIR.JPG");
+    background-attachment: fixed;
+    color:rgb(255, 255, 255);
+    background-size: cover;
+    background-position: 0 -50px;
+    height: 450px;
+    padding: 2rem 1rem;
+    text-shadow: 100px;
+}
+
+/* body{
+
+
+} */
